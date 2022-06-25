@@ -86,3 +86,8 @@ LICENSE:
 
 [![License](https://www.gnu.org/graphics/gplv3-127x51.png)](LICENSE)
 
+
+[![Deploy](https://www.heroku.com/deploy?template=https://github.com/AAmovies/videocomp)
+  
+  
+  
