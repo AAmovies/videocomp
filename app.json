@@ -14,19 +14,19 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "d4405d62bb15b75a4209d127d94ce931"
+            "value": ""
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "14938707"
+            "value": ""
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "5427672839:AAE9ZMuCxSennoe5eup9TOI66-4jrhJS_2k"
+            "value": ""
         },
         "AUTH_USERS": {
             "description": "Bot owner's UserID.",
-            "value": "1877399220"
+            "value": ""
         },
         "HEROKU_API": {
             "description": "Your heroku app name(optional, add only if you want to restart directly from tg.",
@@ -40,31 +40,31 @@
         },
         "LOG_CHANNEL": {
             "description": "Log channel username, without using '@'.",
-            "value": "logchannelaa"
+            "value": ""
         },
         "LOG_ID": {
             "description": "Log channel `ID` (Should be Public)",
-            "value": "-1001700565104"
+            "value": ""
         },
         "ACCESS_CHANNEL": {
             "description": "Private group id to spy users.(Should be public group)",
-            "value": "-1001743141548"
+            "value": ""
         },
         "MONGODB_URI": {
             "description": "Your mongodb url here.",
-            "value": "mongodb+srv://Asdfghjkl:qwertyuiop@cluster0.dr6lb.mongodb.net/?retryWrites=true&w=majority"
+            "value": ""
         },
         "FORCESUB": {
             "description": "Channel id to which u want user be force subcribed.(Should be public)",
-            "value": "-1001661072121"
+            "value": ""
         },
         "FORCESUB_UN": {
             "description": "Forcesub channel's username.",
-            "value": "AA_movies_kannada"
+            "value": ""
         },
         "BOT_UN": {
             "description": "Username of your bot.",
-            "value": "https://t.me/Tedtbibot"
+            "value": ""
         }
     },
     "buildpacks": [
